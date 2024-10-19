@@ -15,3 +15,7 @@
 #header>ul>li:nth-child(4) {
   margin: 0px 70px;
 }
+#header>ul>li:hover {
+  color: red;
+  text-decoration: underline;
+}
