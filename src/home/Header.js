@@ -1,4 +1,4 @@
-import './main.css';
+import './home.css';
 import List from './List.js';
 
 const element = () => {

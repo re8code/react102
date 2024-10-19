@@ -1,12 +1,10 @@
 import './App.css';
-import Header from './header/Header.js';
-import MainPic from './header/MainPic.js';
+import Home from './Home.js';
 
 function App() {
   return (
     <>
-      <Header />
-      <MainPic />
+      <Home />
     </>
   );
 }
