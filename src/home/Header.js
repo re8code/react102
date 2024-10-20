@@ -7,7 +7,7 @@ const element = () => {
       <ul>
         <List type='text' data='How it works' />
         <List type='text' data='Gifts' />
-        <List type='text' data='About' />
+        <List type='text' data='About' link='/about'/>
         <List type='image' data='./logo.png' />
         <List type='text' data='Login' />
         <List type='text' data='Members' />

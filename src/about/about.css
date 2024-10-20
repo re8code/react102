@@ -1,0 +1,15 @@
+/* top ---------------------------------------------------------- */
+#top {
+  width: 1000px;
+  height: 500px;
+  margin: 30px auto 0;
+}
+#top>.top_right {
+  width: 250px;
+  height: 500px;
+  float: left;
+  background-color: cyan;
+}
+#top img {
+  display: block;
+}
