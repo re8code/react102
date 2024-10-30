@@ -32,3 +32,16 @@
   height: 460px;
   background-color: burlywood;
 }
+/* footer -------------------------------------------------------- */
+#footer {
+  width: 1000px;
+  height: 40px;
+  margin: 0 auto;
+  background-color: pink;
+}
+#footer ul {
+  width: 730px;
+  height: 100%;
+  padding-left: 20px;
+  background-color: gray;
+}

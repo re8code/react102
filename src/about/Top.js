@@ -1,4 +1,3 @@
-import './about.css';
 import BoxItem from './BoxItem.js';
 
 const style = {
