@@ -45,3 +45,13 @@
   padding-left: 20px;
   background-color: gray;
 }
+#footer ul li {
+  display: inline-block;
+  line-height: 40px;
+  margin: 0 5px;
+  font-size: 13px;
+}
+#footer ul li:nth-child(2n) {
+  color: orange;
+  font-weight: 900;
+}
